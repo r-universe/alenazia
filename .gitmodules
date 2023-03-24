@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NGBVS"]
+	path = NGBVS
+	url = https://github.com/cran/NGBVS
+	shallow = true
+	registered = true
